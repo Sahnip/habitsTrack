@@ -49,7 +49,7 @@ export default function HabitTracker() {
   return (
     <Card className="w-full max-w-3xl mx-auto shadow-none border-none">
       <CardHeader>
-        <CardTitle>Stop Smoke</CardTitle>
+        <CardTitle>Muscu 2K25</CardTitle>
       </CardHeader>
       <CardContent className="space-y-6">
         <div className="grid grid-cols-[repeat(auto-fill,minmax(20px,1fr))] gap-1">
